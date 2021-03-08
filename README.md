@@ -6,7 +6,7 @@
 
 [![Linkedin: nikkihmltn](https://img.shields.io/badge/-nikkihmltn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikkihmltn/)](https://www.linkedin.com/in/nikkihmltn/)
 [![GitHub NikkiHmltn](https://img.shields.io/github/followers/NikkiHmltn?label=follow&style=social)](https://github.com/NikkiHmltn)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=http://nikkihmltn.me/)](http://nikkihmltn.me/)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=http://nicolehamilton.me/)](http://nicolehamilton.me/)
 ![](https://visitor-badge.glitch.me/badge?page_id=NikkiHmltn.NikkiHmltn)
 
 ### A little about me...  
